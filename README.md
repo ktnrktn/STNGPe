@@ -4,7 +4,7 @@ simulation of the STN-GPe network in the basal ganglia
 ### Outline
 This program conducted numerical simulation of sub thalamic nucleus (STN) and external globus pallidus (GPe) network in the basal ganglia.
 The network consisted detailed neuron models of STN neurons, prototypic GPe neurons, and arkypallidal neurons.
-The code is parallelized using MPICH.
+The code is parallelized using [MPICH](https://www.mpich.org).
 
 ---
 
